@@ -1,0 +1,13 @@
+.pets {
+  display: flex;
+  gap: 20px;
+}
+.pet {
+  text-align: center;
+  cursor: pointer;
+}
+.pet img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
